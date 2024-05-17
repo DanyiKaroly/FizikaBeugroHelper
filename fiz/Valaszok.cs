@@ -19,7 +19,7 @@ namespace FizHelp
             ValaszLista.Add(new ValaszClass(1, "gyorsulas.PNG"));
             ValaszLista.Add(new ValaszClass(2, "sebesseg.PNG"));
         }
-        public int getKL()
+        public int getVL()
         {
             return ValaszLista.Count();
         }
