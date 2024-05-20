@@ -9,16 +9,16 @@ namespace FizHelp
     internal class ValaszClass
     {
         int sorszam;
-        string url;
+        Image img;
 
-        public ValaszClass(int Sorszam, string URL)
+        public ValaszClass(int Sorszam, Image Img)
         {
             sorszam = Sorszam;
-            url = URL;
+            img = Img;
         }
-        public string getURL()
+        public Image getIMG()
         {
-            return url;
+            return img;
         }
         public int getSorszam()
         {

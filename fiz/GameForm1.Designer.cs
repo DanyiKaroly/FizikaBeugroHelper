@@ -1,6 +1,6 @@
 ﻿namespace FizHelp
 {
-    partial class MenuForm
+    partial class GameForm1
     {
         /// <summary>
         ///  Required designer variable.
@@ -29,18 +29,15 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MenuForm));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(GameForm1));
             pictureBox1 = new PictureBox();
-            pictureBox2 = new PictureBox();
-            button1 = new Button();
             label1 = new Label();
-            button2 = new Button();
             button3 = new Button();
             pictureBox3 = new PictureBox();
             animator = new System.Windows.Forms.Timer(components);
             button4 = new Button();
+            panel1 = new Panel();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
             SuspendLayout();
             // 
@@ -53,27 +50,6 @@
             pictureBox1.SizeMode = PictureBoxSizeMode.CenterImage;
             pictureBox1.TabIndex = 0;
             pictureBox1.TabStop = false;
-            // 
-            // pictureBox2
-            // 
-            pictureBox2.BackColor = Color.Transparent;
-            pictureBox2.Location = new Point(12, 274);
-            pictureBox2.Name = "pictureBox2";
-            pictureBox2.Size = new Size(976, 142);
-            pictureBox2.SizeMode = PictureBoxSizeMode.CenterImage;
-            pictureBox2.TabIndex = 1;
-            pictureBox2.TabStop = false;
-            // 
-            // button1
-            // 
-            button1.Font = new Font("Segoe UI", 20F);
-            button1.Location = new Point(412, 431);
-            button1.Name = "button1";
-            button1.Size = new Size(174, 57);
-            button1.TabIndex = 2;
-            button1.Text = "Ellenőrzés";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
             // 
             // label1
             // 
@@ -90,23 +66,12 @@
             label1.TextAlign = ContentAlignment.MiddleCenter;
             label1.UseCompatibleTextRendering = true;
             // 
-            // button2
-            // 
-            button2.Font = new Font("Segoe UI", 20F);
-            button2.Location = new Point(412, 513);
-            button2.Name = "button2";
-            button2.Size = new Size(174, 65);
-            button2.TabIndex = 4;
-            button2.Text = "Másik Válasz";
-            button2.UseVisualStyleBackColor = true;
-            button2.Click += button2_Click;
-            // 
             // button3
             // 
             button3.Font = new Font("Segoe UI", 20F);
-            button3.Location = new Point(398, 220);
+            button3.Location = new Point(354, 170);
             button3.Name = "button3";
-            button3.Size = new Size(212, 108);
+            button3.Size = new Size(321, 143);
             button3.TabIndex = 7;
             button3.Text = "Újra";
             button3.UseVisualStyleBackColor = true;
@@ -116,9 +81,9 @@
             // pictureBox3
             // 
             pictureBox3.BackColor = Color.Transparent;
-            pictureBox3.Location = new Point(733, 458);
+            pictureBox3.Location = new Point(691, 16);
             pictureBox3.Name = "pictureBox3";
-            pictureBox3.Size = new Size(120, 120);
+            pictureBox3.Size = new Size(297, 105);
             pictureBox3.TabIndex = 9;
             pictureBox3.TabStop = false;
             // 
@@ -130,7 +95,7 @@
             // button4
             // 
             button4.Font = new Font("Segoe UI", 20F);
-            button4.Location = new Point(3, 513);
+            button4.Location = new Point(12, 12);
             button4.Name = "button4";
             button4.Size = new Size(146, 86);
             button4.TabIndex = 10;
@@ -138,7 +103,17 @@
             button4.UseVisualStyleBackColor = true;
             button4.Click += button4_Click;
             // 
-            // MenuForm
+            // panel1
+            // 
+            panel1.AutoScroll = true;
+            panel1.BackColor = Color.Silver;
+            panel1.BackgroundImageLayout = ImageLayout.Stretch;
+            panel1.Location = new Point(12, 261);
+            panel1.Name = "panel1";
+            panel1.Size = new Size(976, 327);
+            panel1.TabIndex = 11;
+            // 
+            // GameForm1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -147,17 +122,15 @@
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(1000, 600);
             Controls.Add(button3);
+            Controls.Add(panel1);
             Controls.Add(button4);
             Controls.Add(pictureBox3);
-            Controls.Add(button2);
             Controls.Add(label1);
-            Controls.Add(button1);
-            Controls.Add(pictureBox2);
             Controls.Add(pictureBox1);
             DoubleBuffered = true;
             FormBorderStyle = FormBorderStyle.None;
             Icon = (Icon)resources.GetObject("$this.Icon");
-            Name = "MenuForm";
+            Name = "GameForm1";
             ShowIcon = false;
             ShowInTaskbar = false;
             SizeGripStyle = SizeGripStyle.Hide;
@@ -165,7 +138,6 @@
             Text = "Fizika Beugró";
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
             ResumeLayout(false);
             PerformLayout();
@@ -174,13 +146,11 @@
         #endregion
 
         private PictureBox pictureBox1;
-        private PictureBox pictureBox2;
-        private Button button1;
         private Label label1;
-        private Button button2;
         private Button button3;
         private PictureBox pictureBox3;
         private System.Windows.Forms.Timer animator;
         private Button button4;
+        private Panel panel1;
     }
 }

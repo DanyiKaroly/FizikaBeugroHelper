@@ -34,6 +34,7 @@
             animator = new System.Windows.Forms.Timer(components);
             button1 = new Button();
             button2 = new Button();
+            button3 = new Button();
             SuspendLayout();
             // 
             // label1
@@ -58,7 +59,7 @@
             button1.Name = "button1";
             button1.Size = new Size(204, 79);
             button1.TabIndex = 4;
-            button1.Text = "Gyakorlás";
+            button1.Text = "Éles";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click_1;
             // 
@@ -73,6 +74,17 @@
             button2.UseVisualStyleBackColor = true;
             button2.Click += button2_Click;
             // 
+            // button3
+            // 
+            button3.Font = new Font("Segoe UI", 20F);
+            button3.Location = new Point(406, 300);
+            button3.Name = "button3";
+            button3.Size = new Size(204, 84);
+            button3.TabIndex = 6;
+            button3.Text = "Gyakorlás";
+            button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -81,6 +93,7 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(1001, 601);
+            Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(label1);
@@ -101,5 +114,6 @@
         private System.Windows.Forms.Timer animator;
         private Button button1;
         private Button button2;
+        private Button button3;
     }
 }

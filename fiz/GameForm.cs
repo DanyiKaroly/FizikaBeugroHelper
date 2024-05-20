@@ -1,5 +1,6 @@
 using System.Diagnostics.Eventing.Reader;
 using System.Diagnostics.SymbolStore;
+using System.Reflection.Metadata.Ecma335;
 
 namespace FizHelp
 {
@@ -11,32 +12,34 @@ namespace FizHelp
 
         Valaszok Valaszlista = new Valaszok();
         Kerdesek KerdesLista = new Kerdesek();
+        Valaszok ValaszlistaMent = new Valaszok();
 
         int flagV = -1;
         int flagK = -1;
-        int counter = 3;
+        int counter = 10;
         public MenuForm()
         {
+            Valaszlista.feltoltV();
             InitializeComponent();
         }
 
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (flagV == flagK)
+            if (KerdesLista.getID(flagK) == Valaszlista.getID(flagV))
             {
                 label1.Text = "Helyes!";
                 pictureBox3.BackColor = Color.Green;
                 animator.Start();
-                counter--;
+                ValaszlistaMent.addV(Valaszlista.getID(flagV),Valaszlista.getV(flagV));
                 KerdesLista.removeK(flagK);
                 Valaszlista.removeV(flagV);
-
+                counter--;
                 if (counter == 0)
                 {
+                    button1.Enabled = false;
+                    button2.Enabled = false;
                     button3.Visible = true;
-                    counter = 3;
-
                 }
                 else
                 {
@@ -67,37 +70,75 @@ namespace FizHelp
 
                 while (flagNewK == flagK)
                 {
-                    flagNewK = random();
+                    flagNewK = randomK();
                 }
             }
             else flagNewK = 0;
             flagK = flagNewK;
-            pictureBox1.Image = Image.FromFile(KerdesLista.getKerdes(flagK));
+            if(pictureBox1.Height < KerdesLista.getKerdes(flagK).Height|| pictureBox1.Width < KerdesLista.getKerdes(flagK).Width)
+            pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
+            else
+            pictureBox1.SizeMode = PictureBoxSizeMode.CenterImage;
+
+            pictureBox1.Image = KerdesLista.getKerdes(flagK);
+        }
+        private bool hasznaltValasz()
+        {
+            int volt = 0;
+                for (int j = 0; j < ValaszlistaMent.getVL(); j++)
+                {
+                    if (ValaszlistaMent.getID(j) == Valaszlista.getID(flagV))
+                    {
+                        volt = 1;
+                        return true;
+                    }
+                }
+            return false;
         }
         private void cardupdateV()
         {
             int flagNew = flagV;
+            do
+            {
             if (Valaszlista.getVL() != 1)
             {
                 while (flagV == flagNew)
                 {
-                    flagNew = random();
+                    flagNew = randomV();
                 }
             }
             else flagNew = 0;
-
             flagV = flagNew;
-            pictureBox2.Image = Image.FromFile(Valaszlista.getV(flagV));
+            } while (hasznaltValasz()==true);
+
+
+            if (pictureBox2.Height < Valaszlista.getV(flagV).Height || pictureBox2.Width < Valaszlista.getV(flagV).Width)
+                pictureBox2.SizeMode = PictureBoxSizeMode.Zoom;
+            else
+                pictureBox2.SizeMode = PictureBoxSizeMode.CenterImage;
+
+
+            pictureBox2.Image = Valaszlista.getV(flagV);
         }
 
-        private int random()
+        private int randomK()
         {
             Random rnd = new Random();
             return rnd.Next(0, KerdesLista.getKL());
         }
+        private int randomV()
+        {
+            Random rnd = new Random();
+            return rnd.Next(0, Valaszlista.getVL());
+        }
 
         private void button2_Click(object sender, EventArgs e)
         {
+            if (Valaszlista.getVL() <= 1)
+                if(ValaszlistaMent.getVL()==0)
+                Valaszlista = ValaszlistaMent;
+            else
+                Valaszlista.removeV(flagV);
             cardupdateV();
         }
 
@@ -107,26 +148,35 @@ namespace FizHelp
             label1.Text = "Fizika kérdések";
             button3.Visible = false;
             KCUpdate();
+            button1.Enabled = true;
+            button2.Enabled = true;
+            counter = KerdesLista.getKL();
+
         }
         private void listain()
         {
-            Valaszlista = new Valaszok();
+            Valaszlista.feltoltV();
             KerdesLista = new Kerdesek();
         }
         private void Form1_Load(object sender, EventArgs e)
         {
+            counter = KerdesLista.getKL();
+            listain();
             KCUpdate();
         }
 
         private void animator_Tick(object sender, EventArgs e)
         {
             label1.Text = "Válassz!";
-            pictureBox3.BackColor = Color.Gainsboro;
+            pictureBox3.BackColor = Color.Transparent;
             animator.Stop();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
+            ValaszlistaMent = new Valaszok();
+            listain();
+            KCUpdate();
             this.Hide();
         }
     }

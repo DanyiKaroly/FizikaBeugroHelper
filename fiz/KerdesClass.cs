@@ -9,16 +9,15 @@ namespace FizHelp
     internal class KerdesClass
     {
         int sorszam;
-        string url;
-
-        public KerdesClass(int Sorszam, string URL)
+        Image img;
+        public KerdesClass(int Sorszam, Image Img)
         {
             sorszam = Sorszam;
-            url= URL;
+            img=Img;
         }
-        public string getURL()
+        public Image getIMG()
         {
-            return url;
+            return img;
         }
         public int getSorszam()
         {

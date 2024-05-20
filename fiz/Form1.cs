@@ -1,3 +1,4 @@
+using fiz;
 using System.Diagnostics.Eventing.Reader;
 using System.Diagnostics.SymbolStore;
 
@@ -6,6 +7,8 @@ namespace FizHelp
     public partial class Form1 : Form
     {
         MenuForm menuform = new MenuForm();
+        GameForm1 valaszokf = new GameForm1();
+
         public Form1()
         {
             InitializeComponent();
@@ -25,6 +28,11 @@ namespace FizHelp
         private void button2_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            valaszokf.ShowDialog();
         }
     }
 }
