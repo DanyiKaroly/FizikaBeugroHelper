@@ -23,13 +23,14 @@ namespace FizHelp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = Convert.ToString(Valaszlista.getVL());
             if (flagV == flagK)
             {
+                label1.Text = "Helyes!";
+                pictureBox3.BackColor = Color.Green;
+                animator.Start();
                 counter--;
                 KerdesLista.removeK(flagK);
                 Valaszlista.removeV(flagV);
-                label2.Text = Convert.ToString(KerdesLista.getKL());
 
                 if (counter == 0)
                 {
@@ -44,6 +45,9 @@ namespace FizHelp
             }
             else
             {
+                label1.Text = "Helytelen!";
+                pictureBox3.BackColor = Color.Red;
+                animator.Start();
                 KCUpdate();
             }
         }
@@ -56,7 +60,7 @@ namespace FizHelp
         }
         private void cardupdateK()
         {
-            int flagNewK=flagK;
+            int flagNewK = flagK;
 
             if (KerdesLista.getKL() != 1)
             {
@@ -73,7 +77,7 @@ namespace FizHelp
         }
         private void cardupdateV()
         {
-            int flagNew=flagV;
+            int flagNew = flagV;
             if (Valaszlista.getVL() != 1)
             {
                 while (flagV == flagNew)
@@ -113,6 +117,13 @@ namespace FizHelp
         private void Form1_Load(object sender, EventArgs e)
         {
             KCUpdate();
+        }
+
+        private void animator_Tick(object sender, EventArgs e)
+        {
+            label1.Text = "Válassz!";
+            pictureBox3.BackColor = Color.Gainsboro;
+            animator.Stop();
         }
     }
 }

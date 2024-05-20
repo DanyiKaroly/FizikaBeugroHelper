@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             pictureBox1 = new PictureBox();
             pictureBox2 = new PictureBox();
             button1 = new Button();
@@ -35,8 +36,11 @@
             button2 = new Button();
             button3 = new Button();
             label2 = new Label();
+            pictureBox3 = new PictureBox();
+            animator = new System.Windows.Forms.Timer(components);
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
             SuspendLayout();
             // 
             // pictureBox1
@@ -113,12 +117,26 @@
             label2.TabIndex = 8;
             label2.Text = "label2";
             // 
+            // pictureBox3
+            // 
+            pictureBox3.Location = new Point(583, 366);
+            pictureBox3.Name = "pictureBox3";
+            pictureBox3.Size = new Size(120, 120);
+            pictureBox3.TabIndex = 9;
+            pictureBox3.TabStop = false;
+            // 
+            // animator
+            // 
+            animator.Interval = 1000;
+            animator.Tick += animator_Tick;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Gainsboro;
             ClientSize = new Size(903, 541);
+            Controls.Add(pictureBox3);
             Controls.Add(label2);
             Controls.Add(button3);
             Controls.Add(button2);
@@ -131,6 +149,7 @@
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -144,5 +163,7 @@
         private Button button2;
         private Button button3;
         private Label label2;
+        private PictureBox pictureBox3;
+        private System.Windows.Forms.Timer animator;
     }
 }
