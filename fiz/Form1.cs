@@ -6,7 +6,7 @@ namespace FizHelp
 {
     public partial class Form1 : Form
     {
-        MenuForm menuform = new MenuForm();
+        ElesForm ElesGame = new ElesForm();
         GameForm1 valaszokf = new GameForm1();
 
         public Form1()
@@ -22,7 +22,7 @@ namespace FizHelp
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            menuform.ShowDialog();
+            ElesGame.ShowDialog();
         }
 
         private void button2_Click(object sender, EventArgs e)

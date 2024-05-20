@@ -15,10 +15,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Update="GameForm1.cs">
+    <Compile Update="ElesForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="GameForm.cs">
+    <Compile Update="GameForm1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Properties\Resources.Designer.cs">

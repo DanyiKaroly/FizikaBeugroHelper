@@ -7,7 +7,7 @@ namespace FizHelp
 {
 
 
-    public partial class GameForm1 : Form
+    public partial class ElesForm : Form
     {
         Valaszok Valaszlista = new Valaszok();
         Kerdesek KerdesLista = new Kerdesek();
@@ -15,7 +15,8 @@ namespace FizHelp
 
         int flagK = -1;
         int counter = 10;
-        public GameForm1()
+        int hiba = 0;
+        public ElesForm()
         {
             Valaszlista.feltoltV();
             InitializeComponent();
@@ -66,31 +67,34 @@ namespace FizHelp
         }
         private void ellenorzo(int szamol)
         {
-            if (KerdesLista.getID(flagK) == szamol)
-            {
-                label1.Text = "Helyes!";
-                pictureBox3.BackColor = Color.Green;
-                animator.Start();
-                KerdesLista.removeK(flagK);
-                counter--;
-                if (counter == 0)
+                if (KerdesLista.getID(flagK) == szamol)
                 {
-                    animator.Stop();
-                    label1.Text = "Teljesítetted a gyakorlást!";
-                    button3.Visible = true;
+                    KerdesLista.removeK(flagK);
+                    label1.Text = "Helyes!";
+                    pictureBox3.BackColor = Color.Green;
+                    animator.Start();
                 }
                 else
                 {
-                    cardupdateK();
+                    hiba++;
+                    KerdesLista.removeK(flagK);
+                    label1.Text = "Helytelen!";
+                    pictureBox3.BackColor = Color.Red;
+                    animator.Start();
                 }
-            }
-            else
+                counter--;
+            if(counter==0)
             {
-                label1.Text = "Helytelen!";
-                pictureBox3.BackColor = Color.Red;
-                animator.Start();
-                cardupdateK();
+                for (int i = 0; i < buttons.Count; i++)
+                {
+                    buttons[i].Enabled = false;
+                }
+                animator.Stop();
+                label1.Text = "Teljesítetted a beugrót!\nHiba: " + hiba;
+                button3.Visible = true;
+                
             }
+            cardupdateK();
         }
 
         private int randomK()
@@ -108,11 +112,16 @@ namespace FizHelp
 
         private void button3_Click(object sender, EventArgs e)
         {
+            for (int i = 0; i < buttons.Count; i++)
+            {
+                buttons[i].Enabled = true;
+            }
+            hiba = 0;
             listain();
             label1.Text = "Fizika kérdések";
             button3.Visible = false;
             cardupdateK();
-            counter = KerdesLista.getKL();
+            counter = 10;
             label1.Text = "Válassz!";
         }
         private void listain()
@@ -121,7 +130,7 @@ namespace FizHelp
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-            counter = KerdesLista.getKL();
+            counter = 10;
             listain();
             cardupdateK();
             cardupdateV();
@@ -137,6 +146,7 @@ namespace FizHelp
 
         private void button4_Click(object sender, EventArgs e)
         {
+            hiba = 0;
             listain();
             cardupdateK();
             this.Hide();
