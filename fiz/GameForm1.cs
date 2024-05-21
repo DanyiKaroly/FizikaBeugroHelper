@@ -75,7 +75,12 @@ namespace FizHelp
                 counter--;
                 if (counter == 0)
                 {
+                    for (int i = 0; i < buttons.Count; i++)
+                    {
+                        buttons[i].Enabled = false;
+                    }
                     animator.Stop();
+                    pictureBox3.BackColor = Color.Transparent;
                     label1.Text = "Teljesítetted a gyakorlást!";
                     button3.Visible = true;
                 }
@@ -108,6 +113,11 @@ namespace FizHelp
 
         private void button3_Click(object sender, EventArgs e)
         {
+            pictureBox3.BackColor = Color.Transparent;
+            for (int i = 0; i < buttons.Count; i++)
+            {
+                buttons[i].Enabled = true;
+            }
             listain();
             label1.Text = "Fizika kérdések";
             button3.Visible = false;
@@ -137,6 +147,7 @@ namespace FizHelp
 
         private void button4_Click(object sender, EventArgs e)
         {
+            pictureBox3.BackColor = Color.Transparent;
             listain();
             cardupdateK();
             this.Hide();

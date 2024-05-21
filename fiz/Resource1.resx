@@ -118,11 +118,131 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="_100kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\100kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_100valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\100valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_101kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\101kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_101valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\101valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_102kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\102kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_102valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\102valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_103kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\103kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_103valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\103valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_104kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\104kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_104valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\104valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_105kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\105kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_105valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\105valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_106kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\106kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_106valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\106valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_107kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\107kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_107valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\107valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_108kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\108kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_108valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\108valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_109kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\109kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_109valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\109valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="_10kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>pics\10kerdes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_10valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>pics\10valasz.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_110kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\110kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_110valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\110valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_111kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\111kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_111valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\111valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_112kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\112kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_112valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\112valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_113kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\113kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_113valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\113valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_114kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\114kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_114valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\114valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_115kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\115kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_115valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\115valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_116kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\116kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_116valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\116valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_117kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\117kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_117valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\117valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_118kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\118kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_118valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\118valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_119kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\119kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_119valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\119valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_11kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>pics\11kerdes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -130,11 +250,422 @@
   <data name="_11valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>pics\11valasz.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="_120kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\120kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_120valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\120valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_121kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\121kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_121valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\121valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_122kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\122kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_122valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\122valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_123kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\123kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_123valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\123valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_124kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\124kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_124valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\124valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_125kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\125kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_125valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\125valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_126kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\126kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_126valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\126valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_127kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\127kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_127valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\127valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_128kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\128kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_128valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\128valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_129kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\129kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_129valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\129valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_12kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\12kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_12valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\12valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_130kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\130kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_130valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\130valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_131kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\131kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_131valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\131valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_132kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\132kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_132valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\132valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_133kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\133kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_133valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\133valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_134kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\134kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_134valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\134valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_135kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\135kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_136kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\136kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_136valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\136valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_137kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\137kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_137valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\137valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_138kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\138kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_138valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\138valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_139kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\139kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_139valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\139valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_13kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\13kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_13valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\13valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_140kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\140kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_140valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\140valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_141kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\141kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_141valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\141valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_142kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\142kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_142valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\142valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_143kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\143kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_143valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\143valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_144kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\144kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_144valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\144valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_145kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\145kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_145valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\145valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_146kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\146kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_146valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\146valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_147kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\147kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_147valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\147valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_148kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\148kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_148valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\148valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_149kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\149kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_149valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\149valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_14kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\14kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_14valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\14valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_150kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\150kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_150valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\150valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_151kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\151kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_151valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\151valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_152kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\152kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_152valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\152valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_153kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\153kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_153valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\153valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_154kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\154kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_154valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\154valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_155kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\155kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_155valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\155valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_156kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\156kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_156valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\156valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_157kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\157kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_157valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\157valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_158kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\158kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_158valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\158valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_159kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\159kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_159valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\159valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_15kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\15kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_15valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\15valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_160kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\160kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_160valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\160valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_161kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\161kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_161valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\161valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_162kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\162kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_162valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\162valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_163kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\163kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_163valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\163valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_164kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\164kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_164valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\164valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_165kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\165kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_165valasz1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\165valasz1.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_165valasz2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\165valasz2.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_166kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\166kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_166valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\166valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_167kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\167kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_167valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\167valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_168kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\168kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_168valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\168valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_169valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\169valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_16kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\16kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_16valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\16valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_170kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\170kerdes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_170valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\170valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_17kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\17kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_17valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\17valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_18kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\18kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_18valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\18valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_19kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\19kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_19valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\19valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="_1kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\1kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_1valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\1valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_20kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\20kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_20valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\20valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_21kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\21kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_21valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\21valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_22kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\22kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_22valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\22valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_23kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\23kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_23valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\23valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_24kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\24kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_24valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\24valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_25kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\25kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_25valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\25valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_26kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\26kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_26valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\26valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_27kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\27kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_27valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\27valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_28kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\28kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_28valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\28valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_29kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\29kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_29valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\29valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_2kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\2kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -142,11 +673,131 @@
   <data name="_2valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\2valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="_30kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\30kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_30valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\30valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_31kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\31kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_31valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\31valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_32kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\32kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_32valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\32valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_33kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\33kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_33valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\33valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_34kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\34kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_34valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\34valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_35kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\35kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_35valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\35valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_36kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\36kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_36valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\36valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_37kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\37kerdes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_37valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\37valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_38kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\38kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_38valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\38valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_39kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\39kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_39valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\39valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="_3kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\3kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_3valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\3valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_40kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\40kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_40valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\40valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_41kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\41kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_41valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\41valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_42kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\42kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_42valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\42valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_43kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\43kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_43valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\43valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_44kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\44kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_44valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\44valasz.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_45kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\45kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_45valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\45valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_46kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\46kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_46valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\46valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_47kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\47kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_47valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\47valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_48kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\48kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_48valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\48valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_49kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\49kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_49valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\49valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_4kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>pics\4kerdes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -154,11 +805,131 @@
   <data name="_4valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>pics\4valasz.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="_50kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\50kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_50valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\50valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_51kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\51kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_51valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\51valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_52kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\52kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_52valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\52valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_53kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\53kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_53valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\53valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_54kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\54kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_54valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\54valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_55kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\55kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_55valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\55valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_56kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\56kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_56valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\56valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_57kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\57kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_57valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\57valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_58kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\58kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_58valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\58valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_59kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\59kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_59valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\59valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="_5kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>pics\5kerdes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_5valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>pics\5valasz.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_60kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\60kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_60valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\60valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_61kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\61kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_61valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\61valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_62kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\62kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_62valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\62valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_63kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\63kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_63valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\63valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_64kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\64kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_64valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\64valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_65kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\65kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_65valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\65valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_66kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\66kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_66valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\66valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_67kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\67kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_67valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\67valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_68kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\68kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_68valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\68valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_69kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\69kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_69valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\69valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_6kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>pics\6kerdes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -166,17 +937,197 @@
   <data name="_6valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>pics\6valasz.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="_70kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\70kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_70valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\70valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_71kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\71kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_71valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\71valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_72kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\72kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_72valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\72valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_73kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\73kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_73valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\73valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_74kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\74kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_74valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\74valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_75kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\75kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_75valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\75valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_76kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\76kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_76valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\76valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_77kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\77kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_77valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\77valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_78kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\78kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_78valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\78valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_79kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\79kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_79valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\79valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="_7kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>pics\7kerdes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_7valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>pics\7valasz.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="_80kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\80kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_80valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\80valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_81kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\81kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_81valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\81valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_82kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\82kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_82valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\82valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_83kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\83kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_83valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\83valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_84kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\84kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_84valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\84valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_85kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\85kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_85valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\85valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_86kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\86kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_86valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\86valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_87kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\87kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_87valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\87valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_88kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\88kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_88valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\88valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_89kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\89kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_89valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\89valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="_8kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>pics\8kerdes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_8valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>pics\8valasz.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_90kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\90kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_90valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\90valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_91kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\91kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_91valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\91valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_92kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\92kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_92valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\92valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_93kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\93kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_93valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\93valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_94kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\94kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_94valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\94valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_95kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\95kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_95valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\95valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_96kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\96kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_96valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\96valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_97kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\97kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_97valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\97valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_98kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\98kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_98valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\98valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_99kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\99kerdes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_99valasz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\99valasz.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_9kerdes" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>pics\9kerdes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>

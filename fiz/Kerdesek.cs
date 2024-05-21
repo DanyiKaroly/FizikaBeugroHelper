@@ -3,6 +3,7 @@ using Microsoft.VisualBasic;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Resources;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -14,17 +15,18 @@ namespace FizHelp
 
         public Kerdesek()
         {
-            kerdesekLista.Add(new KerdesClass(1, Resource1._1kerdes));
-            kerdesekLista.Add(new KerdesClass(2, Resource1._2kerdes));
-            kerdesekLista.Add(new KerdesClass(3, Resource1._3kerdes));
-            kerdesekLista.Add(new KerdesClass(4, Resource1._4kerdes));
-            kerdesekLista.Add(new KerdesClass(5, Resource1._5kerdes));
-            kerdesekLista.Add(new KerdesClass(6, Resource1._6kerdes));
-            kerdesekLista.Add(new KerdesClass(7, Resource1._7kerdes));
-            kerdesekLista.Add(new KerdesClass(8, Resource1._8kerdes));
-            kerdesekLista.Add(new KerdesClass(9, Resource1._9kerdes));
-            kerdesekLista.Add(new KerdesClass(10, Resource1._10kerdes));
-            kerdesekLista.Add(new KerdesClass(11, Resource1._11kerdes));
+            for (int i = 1; i <= 170; i++)
+            {
+                string resourceName = "_" + i + "kerdes";
+
+                Image image = (Image)fiz.Resource1.ResourceManager.GetObject(resourceName);
+
+                if (image != null)
+                {
+                    kerdesekLista.Add(new KerdesClass(i, image));
+                };
+            }
+
         }
 
         public int getKL()

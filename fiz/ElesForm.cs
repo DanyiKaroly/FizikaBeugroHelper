@@ -89,6 +89,7 @@ namespace FizHelp
                 {
                     buttons[i].Enabled = false;
                 }
+                pictureBox3.BackColor = Color.Transparent;
                 animator.Stop();
                 label1.Text = "Teljesítetted a beugrót!\nHiba: " + hiba;
                 button3.Visible = true;
@@ -112,6 +113,7 @@ namespace FizHelp
 
         private void button3_Click(object sender, EventArgs e)
         {
+            pictureBox3.BackColor = Color.Transparent;
             for (int i = 0; i < buttons.Count; i++)
             {
                 buttons[i].Enabled = true;
@@ -146,6 +148,7 @@ namespace FizHelp
 
         private void button4_Click(object sender, EventArgs e)
         {
+            pictureBox3.BackColor = Color.Transparent;
             hiba = 0;
             listain();
             cardupdateK();
